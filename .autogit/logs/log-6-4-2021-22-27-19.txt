@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Thu May 06 2021 22:27:19 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+* src/index.css
+* src/index.js
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+* src/logo.svg
+* src/serviceWorker.js
+* src/setupTests.js
+
+
+Renamed files:
