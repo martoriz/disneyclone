@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Thu May 06 2021 23:57:59 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+
+
+Created files:
+* .autogit/logs/log-6-4-2021-23-27-51.txt
+* src/components/Login.js
+
+
+Deleted files:
+
+
+Renamed files:
