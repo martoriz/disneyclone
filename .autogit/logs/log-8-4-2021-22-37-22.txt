@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sat May 08 2021 22:37:22 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Login.js
+
+
+Created files:
+* .autogit/logs/log-8-4-2021-22-7-15.txt
+* public/images/login-background.jpg
+
+
+Deleted files:
+
+
+Renamed files:
