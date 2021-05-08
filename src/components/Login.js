@@ -5,7 +5,7 @@ const Login = (props) => {
  <Container>
      <Content>
          <CTA>
-             <CTALogoOne src="/images/cta-logo-one.png" alt=""/> 
+             <CTALogoOne src="/images/cta-logo-one.svg" alt=""/> 
          </CTA>
          <BgImage />
          </Content>
