@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 09 2021 00:46:02 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Login.js
+
+
+Created files:
+* .autogit/logs/log-9-4-2021-0-15-53.txt
+* public/images/cta-logo-one.svg
+
+
+Deleted files:
+
+
+Renamed files:
