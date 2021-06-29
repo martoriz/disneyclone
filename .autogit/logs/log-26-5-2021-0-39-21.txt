@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jun 26 2021 00:39:21 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+* src/components/Login.js
+
+
+Created files:
+* .autogit/logs/log-26-5-2021-0-9-43.txt
+* public/images/cta-logo-two.png
+* src/components/Header.js
+
+
+Deleted files:
+
+
+Renamed files:
