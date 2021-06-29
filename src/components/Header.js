@@ -99,7 +99,7 @@ const NavMenu = styled.div`
       padding: 2px 0px;
       white-space: nowrap;
       position: relative;
-
+    
       &:before {
         background-color: rgb(249, 249, 249);
         border-radius: 0px 0px 4px 4px;
@@ -116,14 +116,39 @@ const NavMenu = styled.div`
         visibility: hidden;
         width: auto;
       }
-
   }
+
+  &:hover {
+    span:before {
+      transform: scaleX(1);
+      visibility: visible;
+      opacity: 1 !important;
+    }
+  }
+}
+
   
   /* @media (max-width: 768px) {
     display: none;
   } */
 `;
 
+
+const Login = styled.a`
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 8px 16px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  border: 1px solid #f9f9f9;
+  border-radius: 4px;
+  transition: all 0.2s ease 0s;
+
+  &:hover {
+    background-color: #f9f9f9;
+    color: #000;
+    border-color: transparent;
+  }
+`;
 
 
 export default Header;
