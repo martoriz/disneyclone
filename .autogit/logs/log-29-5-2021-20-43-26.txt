@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 29 2021 20:43:26 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* src/components/Header.js
+
+
+Created files:
+* .autogit/logs/log-29-5-2021-20-13-40.txt
+
+
+Deleted files:
+
+
+Renamed files:

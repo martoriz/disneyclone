@@ -33,6 +33,7 @@ const Header = (props) => {
               <span>SERIES</span>
             </a>
           </NavMenu>
+          <Login>Login</Login>
           </Nav>
     );
 };
