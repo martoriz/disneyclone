@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 29 2021 21:46:24 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* src/components/Header.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-29-5-2021-20-43-26.txt
+* src/firebase.js
+
+
+Deleted files:
+
+
+Renamed files:
